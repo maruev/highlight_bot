@@ -1,0 +1,1 @@
+start cmd /k "cd bot\ && ..\Python311\python.exe ..\bot\main.py"
